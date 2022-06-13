@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://lzhuge.github.io/'
 languageCode = 'en-us'
 title = 'LZHUGEz'
 theme = "aether"
