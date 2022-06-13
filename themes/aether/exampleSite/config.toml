@@ -1,0 +1,17 @@
+baseurl = "https://example.com"
+title = "Hugo Themes - aether"
+author = "Joe Hutchinson"
+canonifyurls = true
+paginate = 3
+theme = "aether"
+themesDir = "../../" 
+
+[params]
+    brand = "aether"
+    description = "aether Hugo theme for blogs"
+    headshotimg = "img/faceshot.jpg"
+    headshotalt = "Generic grey headshot picture"
+
+[markup]
+  [markup.highlight]
+    style = "igor"
