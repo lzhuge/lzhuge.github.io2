@@ -1,7 +1,7 @@
 baseURL = "https://lzhuge.github.io/"
 languageCode = "en-us"
 title = "Liqun Zhuge"
-theme = "personal-web"
+theme = "liqunzhuge"
 copyright="© 2022 Liqun Zhuge."
 googleAnalytics = ""
 enableEmoji=true
