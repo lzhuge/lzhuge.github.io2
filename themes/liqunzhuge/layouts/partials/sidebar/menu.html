@@ -1,8 +1,11 @@
 {{ $currentPage := . }}
 {{ range .Site.Menus.main }}
-        <p>
+        <p><big><big>
             <a href="{{ .URL }}">
                 {{ .Name }}
-            </a>
+            </a></big></big>
         </p>
+        <div style="line-height:30%;">
+            <br>
+        </div>
 {{ end }}

@@ -5,7 +5,7 @@
         <img src='{{ .Site.Params.sidebar.logo | default "images/edna-west.jpg" | absURL }}' alt="Profile {{ .Title }}" class="rounded-logo">
       </a>
     </div>
-    <h2>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h2>
+    <h1>{{ .Site.Params.intro.main | default "Welcome, I'm John Doe" | emojify }}</h1>
     <h3>{{ .Site.Params.intro.sub | default "This is my personal website" | emojify }}</h3>
     <div class="menu">
       {{ partial "sidebar/menu" . }}
@@ -16,6 +16,9 @@
                 {{ .Site.Params.contact.text | emojify }}
             </a>
         </p>
+        <div style="line-height:150%;">
+          <br>
+        </div>
       {{ end }}
     </div>
   </div>
