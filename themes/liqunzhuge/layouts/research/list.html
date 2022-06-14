@@ -5,13 +5,19 @@
 
   <h2> Working Papers </h2>
 
-  <div class="post-list">
+  <div class="working-list">
     {{ range .Pages.ByPublishDate.Reverse }}
-      {{ partial "post/item" .}}
+      {{ partial "working/item" .}}
     {{ end }}
   </div>
 
   <h2> Pre-doctoral work </h2>
+
+  <div class="working-list">
+    {{ range .Pages.ByPublishDate.Reverse }}
+      {{ partial "working/item" .}}
+    {{ end }}
+  </div>
   
 
 {{ partial "footer" .}}
