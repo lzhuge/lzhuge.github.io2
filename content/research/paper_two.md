@@ -3,6 +3,7 @@ title: "Hukou and Guanxi: How Social Discrimination and Networks Impact Intrahou
 description: jmp2
 date: "2021-05-03T09:37:55+02:00"
 publishDate: "2021-05-03T09:37:55+02:00"
+section: fool
 ---
 
 <b>Highlight:</b> We use a collective model and data on household consumption and spouses’ hukou status to show that hukou plays a crucial role in determining within-family bargaining power.

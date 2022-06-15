@@ -3,19 +3,27 @@
   <h1 id="title"> {{ .Title }}</h1>
   {{ .Content }}
 
-  <h2> Working Papers </h2>
+  <br>
 
-  <div class="working-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
-      {{ partial "working/item" .}}
+  <big><big><big><b>Working Papers</b></big></big></big>
+
+  <br><br>
+  
+  <div class="working_paper-list">
+    {{ range .Pages.ByPublishDate.Reverse}}
+      {{ partial "working_paper/item" .}}
     {{ end }}
   </div>
 
-  <h2> Pre-doctoral work </h2>
+  <br>
+  
+  <big><big><big><b>Pre-doctoral Work</b></big></big></big>
 
-  <div class="working-list">
+  <br><br>
+
+  <div class="working_paper-list">
     {{ range .Pages.ByPublishDate.Reverse }}
-      {{ partial "working/item" .}}
+      {{ partial "working_paper/item" .}}
     {{ end }}
   </div>
   

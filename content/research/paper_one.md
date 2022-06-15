@@ -3,6 +3,7 @@ title: "Bargaining over Marriage Payments: Theory, Evidence, and Policy Implicat
 description: jmp
 date: "2022-05-03T09:37:55+02:00"
 publishDate: "2022-05-03T09:37:55+02:00"
+section: foo
 ---
 
 <b>Highlight:</b> This article delves into a conservative marriage tradition in China that involves two-direction marital transfers: bride price and dowry.
