@@ -14,8 +14,6 @@ images: ["/images/sample.jpg"]
 
 zhuge [at] bu</big></big>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 
-<img src="campus.png" style="width:115%;" align="right">
-
-
+{{< figure src="campus.png" >}}
