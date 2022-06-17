@@ -1,7 +1,7 @@
 {{ partial "header" .}}
 
   <h1 id="title"> {{ .Title }}</h1>
-  {{ .Content }}
+  
 
   <br>
 
@@ -15,17 +15,8 @@
     {{ end }}
   </div>
 
-  <br>
-  
-  <big><big><big><b>Pre-doctoral Work</b></big></big></big>
-
-  <br><br>
-
-  <div class="working_paper-list">
-    {{ range .Pages.ByPublishDate.Reverse }}
-      {{ partial "working_paper/item" .}}
-    {{ end }}
-  </div>
-  
+  <br><br><br>
+ 
+  {{ .Content }}
 
 {{ partial "footer" .}}
