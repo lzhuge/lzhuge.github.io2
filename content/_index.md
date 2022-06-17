@@ -12,6 +12,8 @@ I am currently on the job market and am available for interviews.<big>
 
 [CV](/about "Get to know me better")
 
-<br>
+<div style="line-height:150%;">
+    <br>
+</div>
 
 <center><img src="/me.png" style="width:100%;">
