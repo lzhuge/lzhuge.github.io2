@@ -12,6 +12,6 @@ I am currently on the job market and am available for interviews.<big>
 
 [CV](/about "Get to know me better")
 
-<hr style="height:20px; visibility:hidden;" />
+<hr style="height:25px; visibility:hidden;" />
 
 <center><img src="/me.png" style="width:100%;">
