@@ -12,10 +12,9 @@
   <div class="working_paper-list">
     {{ range .Pages.ByPublishDate.Reverse}}
       {{ partial "working_paper/item" .}}
+      <br>
     {{ end }}
   </div>
-
-  <br><br><br>
  
   {{ .Content }}
 
