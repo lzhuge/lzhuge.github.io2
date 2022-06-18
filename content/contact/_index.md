@@ -8,12 +8,16 @@ images: ["/images/sample.jpg"]
 
 <big><big><b>Address:</b> 
 
+Department of Economics, Boston University
+
 270 Bay State Road, Boston, MA 02215
+
+<br>
 
 <b>Email:</b> 
 
 zhuge [at] bu</big></big>
 
-<br><br><br><br><br><br>
+<br><br><br><br><br>
 
 {{< figure src="campus.png" >}}
