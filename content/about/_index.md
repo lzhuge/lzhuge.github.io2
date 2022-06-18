@@ -10,6 +10,7 @@ images: ["/images/sample.jpg"]
 
 <big><big><b>Education</b></big></big>
 
+<<<<<<< HEAD
 <br>
 
 <div> 
@@ -31,3 +32,13 @@ images: ["/images/sample.jpg"]
 </div>
 
 <big><big><b>Teaching</b></big></big>
+=======
+Ph.D., Economics, Boston University, Boston MA       2018-2023 (expected)
+
+B.A. Economics, Zhejiang University, Hangzhou, China  2013-2017
+
+
+<br>
+
+<big><big><b>Teaching</b></big></big>
+>>>>>>> 08839114a3cc7bbb614366469e0624b9a4d4fe91
