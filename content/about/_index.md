@@ -10,9 +10,9 @@ images: ["/images/sample.jpg"]
 
 <big><big><b>Education</b></big></big>
 
-Ph.D., Economics, Boston University, Boston MA, 2018-2023 (expected)
+Ph.D., Economics, Boston University, Boston MA       2018-2023 (expected)
 
-B.A. Economics, Zhejiang University, Hangzhou, China 2013-2017
+B.A. Economics, Zhejiang University, Hangzhou, China  2013-2017
 
 
 <br>
