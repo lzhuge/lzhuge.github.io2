@@ -28,4 +28,4 @@ description: 'Posts Section'
 
 <big><b>Regulation and innovation: Examining outcomes in Chinese pollution control policy areas</b></big>
 
-(with Richard B. Freeman and Matthew Higgins) <b>Economic Modelling</b> 89 (2020): 19-31.  <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S1043951X19301312?casa_token=TKnnY-rmrJQAAAAA:uCYo0ay2YPdnzofq_dPTolRdK6ZaBKZQTfV-XqQXK354snjoJHXl3Vtryw8K407dbxtISCvA">[Link]</a>
+(with Richard B. Freeman and Matthew Higgins) <b>Economic Modelling</b> 89 (2020): 19-31.  <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/abs/pii/S0264999318301044">[Link]</a>
