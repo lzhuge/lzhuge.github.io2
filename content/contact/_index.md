@@ -16,7 +16,7 @@ Department of Economics, Boston University
 
 <b>Email:</b> 
 
-zhuge [at] bu</big></big>
+zhuge[at]bu.edu</big></big>
 
 <br><br><br><br><br>
 
