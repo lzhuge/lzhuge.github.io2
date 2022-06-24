@@ -16,4 +16,4 @@ I am currently on the job market and am available for interviews.<big>
     <br>
 </div>
 
-<center><img src="/me.png" style="width:100%;">
+<center><img src="/profile.png" style="width:100%;">

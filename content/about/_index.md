@@ -4,7 +4,7 @@ description: Hey, I'm Liqun
 images: ["/images/sample.jpg"]
 ---
 
-<big><a target="_blank" rel="noopener noreferrer" href="https://github.io/zhuge">[PDF]</a></big>
+<big><a target="_blank" rel="noopener noreferrer" href="CV.pdf">[PDF]</a></big>
 
 <br>
 
