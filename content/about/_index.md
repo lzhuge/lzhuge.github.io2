@@ -60,5 +60,5 @@ images: ["/images/sample.jpg"]
 </div>
 
 <div> 
-<div style = "float:left"><b>Computer Skills:</b> R, Matlab, Stata, Python, Java, Linux, HTML, LaTeX</div>
+<div style = "float:left"><b>Computer Skills:</b> R, Matlab, Stata, Python, Java, SAS, Mathematica, Linux, HTML, LaTeX</div>
 </div>
