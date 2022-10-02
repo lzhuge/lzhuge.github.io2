@@ -35,7 +35,23 @@ images: ["/images/sample.jpg"]
 <br>
 
 <div> 
-<div style = "float:left">To be updated</div>
+<div style = "float:left">Teaching Fellow, Introductory Macroeconomic Analysis, Department of Economics, Boston University</div>
+<div style = "float:right">Fall 2020, 2021, 2022 and Spring 2021</div>
+</div>
+
+<div> 
+<div style = "float:left">Teaching Assistant, Empirical Economics I (EC 303), Department of Economics, Boston University</div>
+<div style = "float:right">Spring 2022</div>
+</div>
+
+<div> 
+<div style = "float:left">Teaching Assistant, Empirical Economics II (EC 204), Department of Economics, Boston University</div>
+<div style = "float:right">Spring 2020</div>
+</div>
+
+<div> 
+<div style = "float:left">Teaching Assistant, Empirical Economics I (EC 203), Department of Economics, Boston University</div>
+<div style = "float:right">Fall 2019</div>
 </div>
 
 <div style="line-height:350%;">
