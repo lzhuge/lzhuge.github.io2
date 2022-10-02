@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on Liqun Zhuge</title>
+    <link>https://www.lzhuge.com/research/</link>
+    <description>Recent content in Research on Liqun Zhuge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved.</copyright>
+    <lastBuildDate>Tue, 03 May 2022 09:37:55 +0200</lastBuildDate><atom:link href="https://www.lzhuge.com/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bargaining over Marriage Payments: Theory, Evidence, and Policy Implications (Job Market Paper)</title>
+      <link>https://www.lzhuge.com/research/paper_one/</link>
+      <pubDate>Tue, 03 May 2022 09:37:55 +0200</pubDate>
+      
+      <guid>https://www.lzhuge.com/research/paper_one/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Highlight:&lt;/b&gt; This article delves into a conservative marriage tradition in Chinese society that involves bidirectional wealth transfers: bride price and dowry, and the broad implication of a pro-women marriage law amendment in a society with high gender inequality.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hukou and Guanxi: How Social Discrimination and Networks Impact Intrahousehold Allocations in China (with Kevin Lang)</title>
+      <link>https://www.lzhuge.com/research/paper_two/</link>
+      <pubDate>Mon, 03 May 2021 09:37:55 +0200</pubDate>
+      
+      <guid>https://www.lzhuge.com/research/paper_two/</guid>
+      <description>&lt;p&gt;&lt;b&gt;Highlight:&lt;/b&gt; We use a collective model and data on household consumption and spouses’ hukou status to show that hukou plays a crucial role in determining within-family bargaining power.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

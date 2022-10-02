@@ -4,7 +4,7 @@ description: Hey, I'm Liqun
 images: ["/images/sample.jpg"]
 ---
 
-<big><a target="_blank" rel="noopener noreferrer" href="CV.pdf">[PDF]</a></big>
+<big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="CV.pdf">[PDF]</a></big>
 
 <br>
 
@@ -26,7 +26,7 @@ images: ["/images/sample.jpg"]
 <div style = "float:right">2013-2017</div>
 </div>
 
-<div style="line-height:350%;">
+<div style="line-height:400%;">
     <br>
 </div>
 
@@ -39,14 +39,26 @@ images: ["/images/sample.jpg"]
 <div style = "float:right">Fall 2020, 2021, 2022 and Spring 2021</div>
 </div>
 
+<div style="line-height:250%;">
+    <br>
+</div>
+
 <div> 
 <div style = "float:left">Teaching Assistant, Empirical Economics I (EC 303), Department of Economics, Boston University</div>
 <div style = "float:right">Spring 2022</div>
 </div>
 
+<div style="line-height:250%;">
+    <br>
+</div>
+
 <div> 
 <div style = "float:left">Teaching Assistant, Empirical Economics II (EC 204), Department of Economics, Boston University</div>
 <div style = "float:right">Spring 2020</div>
+</div>
+
+<div style="line-height:250%;">
+    <br>
 </div>
 
 <div> 
@@ -71,10 +83,14 @@ images: ["/images/sample.jpg"]
 <div style = "float:right">2021-2022</div>
 </div>
 
-<div style="line-height:350%;">
+<div style="line-height:400%;">
     <br>
 </div>
 
 <div> 
 <div style = "float:left"><b>Computer Skills:</b> R, Matlab, Stata, Python, Java, SAS, Mathematica, Linux, HTML, LaTeX</div>
+</div>
+
+<div style="line-height:450%;">
+    <br>
 </div>
