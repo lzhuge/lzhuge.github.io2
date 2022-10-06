@@ -10,7 +10,7 @@ images: ["/images/sample.jpg"]
 
 Department of Economics, Boston University
 
-270 Bay State Road, Boston, MA 02215
+270 Bay State Road B11, Boston, MA 02215
 
 <br>
 
