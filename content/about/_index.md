@@ -22,7 +22,7 @@ images: ["/images/sample.jpg"]
 </div>
 
 <div> 
-<div style = "float:left">B.A. Economics, Zhejiang University, Hangzhou, China,</div>
+<div style = "float:left">B.S. Economics, Zhejiang University, Hangzhou, China,</div>
 <div style = "float:right">2013-2017</div>
 </div>
 
