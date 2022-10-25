@@ -14,7 +14,7 @@ images: ["/images/sample.jpg"]
 
 <div> 
 <div style = "float:left">Ph.D., Economics, Boston University, Boston MA,</div>
-<div style = "float:right">2018¨C2023 (expected)</div>
+<div style = "float:right">2018&#8211;2023 (expected)</div>
 </div>
 
 <div style="line-height:250%;">
@@ -23,7 +23,7 @@ images: ["/images/sample.jpg"]
 
 <div> 
 <div style = "float:left">B.S. Economics, Zhejiang University, Hangzhou, China,</div>
-<div style = "float:right">2013¨C2017</div>
+<div style = "float:right">2013&#8211;2017</div>
 </div>
 
 <div style="line-height:400%;">
@@ -80,7 +80,7 @@ images: ["/images/sample.jpg"]
 
 <div> 
 <div style = "float:left">Student Ambassador to the Research Computing Services (RCS)</div>
-<div style = "float:right">2021-2022</div>
+<div style = "float:right">2021&#8211;2022</div>
 </div>
 
 <div style="line-height:400%;">
