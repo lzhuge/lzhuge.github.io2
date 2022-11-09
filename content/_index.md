@@ -6,7 +6,7 @@ images: ["/images/sample.jpg"]
 
 <big>Hello there. 
 
-I'm Liqun (prounced Lee-Chun) an economics PhD student at Boston University. My research interests lie in labor and development economics. My current work explores a unique institution in which marriages involve bidirectional payments and the consequential gender inequality and bargaining power issues.
+I'm Liqun (pronounced Lee-Chun), an economics PhD student at Boston University. My research interests lie in labor and development economics. My research focuses on how social barriers lead to gender inequality and discrimination at the household level. My job market paper explores a marriage tradition in Chinese society involving bidirectional marriage payments and the broad implication of a pro-woman marriage law amendment in a society with high gender inequality.
 
 I am currently on the job market and am available for interviews.<big>
 
