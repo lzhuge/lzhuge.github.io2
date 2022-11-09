@@ -12,7 +12,7 @@ I am currently on the job market and am available for interviews.<big>
 
 [CV](/about "Get to know me better")
 
-<div style="line-height:200%;">
+<div style="line-height:100%;">
     <br>
 </div>
 
