@@ -6,7 +6,7 @@ description: 'Posts Section'
 <hr style="height:15px; visibility:hidden;" />
 
 
-<big><big><big><b>Pre-doctoral Publications</b></big></big></big> (Corporate Finance)
+<big><big><big><b>Pre-doctoral Publications</b></big></big></big>
 
 <hr style="height:3px; visibility:hidden;" />
 
