@@ -4,7 +4,7 @@ description: Hey, I'm Liqun
 images: ["/images/sample.jpg"]
 ---
 
-<big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="CV.pdf">[PDF]</a></big> 
+<big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="CV.pdf">[Academic CV]</a></big> 
 
 <big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="https://www.linkedin.com/in/lee-zhuge-0592a9264">[LinkedIn]</a></big>
 
@@ -37,7 +37,7 @@ images: ["/images/sample.jpg"]
 <br>
 
 <div> 
-<div style = "float:left">Teaching Fellow, Introductory Macroeconomic Analysis, Department of Economics, Boston University</div>
+<div style = "float:left">Teaching Fellow, Introductory Microeconomic Analysis, Department of Economics, Boston University</div>
 <div style = "float:right">Fall 2020, 2021, 2022 and Spring 2021</div>
 </div>
 

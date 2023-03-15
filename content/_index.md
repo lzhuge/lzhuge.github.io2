@@ -14,7 +14,7 @@ I'm Liqun (pronounced Lee-Chun), a fifth-year economics PhD student at Boston Un
 
 I am currently on the job market and am available for interviews.<big>
 
-[Get to know me better](/about "Get to know me better")
+[Get to know me better](/about "Get to know me more")
 
 <!--
 
