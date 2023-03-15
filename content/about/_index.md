@@ -6,7 +6,7 @@ images: ["/images/sample.jpg"]
 
 <big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="CV.pdf">[Academic CV]</a></big> 
 
-<i class="fa-brands fa-linkedin"></i><big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="https://www.linkedin.com/in/lee-zhuge-0592a9264">[LinkedIn]</a></big>
+<i class="fa fa-linkedin-square" style="font-size:24px"></i> <big><a target="_blank" rel="noopener noreferrer" style="color:blue;" href="https://www.linkedin.com/in/lee-zhuge-0592a9264">[LinkedIn]</a></big>
 
 <br>
 
