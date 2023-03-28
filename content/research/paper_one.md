@@ -1,15 +1,15 @@
 ---
-title: "Bargaining over Marriage Payments: Theory, Evidence, and Policy Implications (Job Market Paper)"
+title: "Catalyzing Household Well-being through Women’s Property Rights Improvements (Job Market Paper)"
 description: jmp
 date: "2022-05-03T09:37:55+02:00"
 publishDate: "2022-05-03T09:37:55+02:00"
 section: foo
 ---
 
-<b>Highlight:</b> This paper delves into a marriage tradition in Chinese society that involves both a bride price and a dowry and the broad implication of a pro-women marriage law amendment in a society with high gender inequality.
+<b>Highlight:</b> This paper investigates how enhancing women’s property rights can improve the welfare of both spouses within the unique marriage institution prevalent in China that involves both a bride price and a dowry.
 
 <!--more-->
 
-<b>Abstract:</b> One unique aspect of the marriage tradition in Chinese society is the presence of both a bride price, paid by the groom's family to the bride's, and a dowry, paid by the bride's family to the couple. This article develops a model in which the bride's family sets the bride price and then transfers the dowry to the new couple, who then divide their resources. Critically, the groom's family receives services from the bride since the couple typically relocates near his family, and both sets of parents are altruistic towards their children. I derive the equilibrium of the marriage payment prices. Empirically, using both a structural collective model and reduced-form evidence, I show that a larger dowry increases the wife's bargaining power within a new conjugal household. Then using regression discontinuity, I examine the effects of a new law protecting the wife's property rights in the event of divorce. By increasing dowry value, this law encourages larger dowries and financially benefits both the husband and wife, as demonstrated by the positive effect on the bride price as well as the dowry.
+<b>Abstract:</b> This paper investigates how enhancing women’s property rights can improve the welfare of both spouses. It examines the effects of a change in marriage law that protects wives' property rights in the event of a divorce. This paper develops a model of a unique marriage institution prevalent in China. The bride’s family sets a bride price, then gives a dowry to the new couple. The couple shares their income and the dowry unless they divorce. In the model, the groom's family gains directly from the marriage since, in China, couples typically relocate near the groom's family. Both sets of parents are altruistic towards their children. The study derives equilibrium prices for marriage payments. It shows that increasing the wife's property rights leads to a Pareto improvement if the bride price increases. Using a regression discontinuity design, I show that the law encourages larger dowries and bride prices and thus financially benefits both the husband and wife.
 
 <big><a target="_blank" rel="noopener noreferrer" href="../bargaining_over_marriage_payments.pdf">[PDF]</a></big>
