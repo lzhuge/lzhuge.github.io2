@@ -10,7 +10,6 @@ images: ["/images/sample.jpg"]
 
 <big>Under Reconstruction. Later...<big>
 
-[Get to know me more](/about "Get to know me more")
 
 <!--
 
