@@ -1,6 +1,6 @@
 ---
 title: CV
-description: Hey, I'm Liqun
+description: Hey
 images: ["/images/sample.jpg"]
 ---
 <!--
