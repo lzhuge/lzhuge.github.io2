@@ -8,11 +8,7 @@ images: ["/images/sample.jpg"]
     <br>
 </div>
 
-<big>Hello there. 
-
-I'm Liqun (pronounced Lee-Chun), a fifth-year economics PhD student at Boston University. My fields are labor economics and corporate finance. I employ various methodologies in my research, including applied theory, structural and reduced-form estimation, and machine learning. I also excel in multiple programming languages and I am experienced in cluster computing. 
-
-I am currently on the job market and am available for interviews.<big>
+<big>Under Reconstruction. Later...<big>
 
 [Get to know me more](/about "Get to know me more")
 
