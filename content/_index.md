@@ -1,5 +1,5 @@
 ---
-title: LIQUN ZHUGE
+title: Lee Zhuge
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
