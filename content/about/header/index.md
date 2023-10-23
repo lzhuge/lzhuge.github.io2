@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-<a href="https://www.w3schools.com/" style="color:#154360;">[PDF]</a>
+<a href="https://github.com/lzhuge/lzhuge.github.io/blob/main/Liqun_Zhuge_CV.pdf" style="color:#154360;">[PDF]</a>
 
 <br>
 
