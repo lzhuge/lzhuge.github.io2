@@ -7,7 +7,7 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-<a href="https://github.com/lzhuge/lzhuge.github.io/blob/main/Liqun_Zhuge_CV.pdf" style="color:#154360;" target="_blank">[PDF]</a>
+<a href="https://nbviewer.org/github/lzhuge/lzhuge.github.io/blob/main/Liqun_Zhuge_CV.pdf" style="color:#154360;" target="_blank">[PDF]</a>
 
 <br>
 
