@@ -39,4 +39,12 @@ headline: |
 <br>Auckland 1142
 <br>New Zealand
 </div>
+<div style="display: flex">
+<div class="tr w-20-l {{ if .Params.image_left }}ml4{{ else }}mr4{{ end }}">
 </div>
+<img src="/img/auckland.png" width="1200" height="120">
+</div>
+</div>
+
+
+
