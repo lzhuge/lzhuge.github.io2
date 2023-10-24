@@ -16,8 +16,8 @@ headline: |
 <br>
 
 <div> 
-<div style = "float:left">Ph.D., Economics, Boston University, Boston, MA,</div>
-<div style = "float:right">2018&#8211;2023</div>
+<div style = "float:left">Ph.D., Economics, &emsp;&nbsp; Boston University, Boston, MA,</div>
+<div style = "float:right">2023</div>
 </div>
 
 <div style="line-height:250%;">
@@ -25,8 +25,13 @@ headline: |
 </div>
 
 <div> 
-<div style = "float:left">B.Econ., Finance, Zhejiang University, Hangzhou, Zhejiang,</div>
-<div style = "float:right">2013&#8211;2017</div>
+<div style = "float:left">B.Econ., Finance, &emsp;&ensp;&nbsp; Zhejiang University, Hangzhou, Zhejiang,</div>
+<div style = "float:right">2017</div>
+</div>
+
+<div> 
+<div style = "float:left"> The General Course, &nbsp; The University of Melbourne, Melbourne, VIC,</div>
+<div style = "float:right">2018</div>
 </div>
 
 <div style="line-height:400%;">
@@ -87,9 +92,14 @@ headline: |
 <br>
 
 <div> 
-<div style = "float:left"><b>Department Service:</b><br> Student Ambassador to the Research Computing Services (RCS), <br> Boston University</div>
-<div style = "float:right"><br><br> 2021&#8211;2022</div>
+<div style = "float:left"><b>Department Service:</b><br> Student Ambassador to the Research Computing Services (RCS), Boston University
+<br>Labor Economics Reading Group Organizer, Boston University
 </div>
+<div style = "float:right"><br>2021&#8211;2022
+<br>2021&#8211;2022
+</div>
+</div>
+
 
 <div style="line-height:600%;">
     <br>
