@@ -37,7 +37,7 @@ Degenderization and Collective Labor Supply in Same-sex Couples
     <br>
 </div>
 
-<big><big><b>Predoctoral Publications</b></big></big> (Corporate Finance)
+<big><big><b>Corporate Finance Publications</b></big></big>
 
 <div> 
 "Firm Dynamics of Hi-Tech Start-ups: Does Innovation Matter?,” China Economic Review (2020): 101370 (with <i>Richard B. Freeman</i> and <i>Dongyang Zhang</i>)<a href="https://www.sciencedirect.com/science/article/abs/pii/S1043951X19301312" style="color:#154360;" target="_blank">[Link]</a>
