@@ -1,4 +1,4 @@
-baseURL = "lzhuge.com"
+baseURL = "https://lzhuge.com/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "LEE ZHUGE"
